@@ -11,7 +11,7 @@ The analysis focuses on exploring environmental factors, building regression mod
 - Use regularization to address multicollinearity.
 - Develop a Logistic Regression model for fire-risk classification.
 
-# Tools and Technologies Used
+# Libraries Used
 - Python
 - Pandas
 - NumPy
